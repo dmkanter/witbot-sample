@@ -1,4 +1,4 @@
-name: sample wit bot
+name: WeatherBot
 description: This is just a sample witbot
 config:
   - name: OPENWEATHER_KEY
